@@ -8,7 +8,8 @@ ShubhEntry is a desktop trading application for fast options, futures, and equit
 
 - Kotak Neo
 - Flattrade
-
+- Shoonya
+- mstock
 
 ## Main Functionality
 
@@ -66,3 +67,4 @@ Default shortcuts are configurable settings.
 - Cancel All Orders: `Ctrl+Shift+Q`
 - Square Off All: `Ctrl+Shift+X`
 - Save/Open Excel: `Ctrl+S`
+## Download here: https://drive.google.com/file/d/1hHcK6wohaojXvIzKVnNktKF5WWWH59eI/view?usp=drive_link
